@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\27.05\bin\Debug\net8.0\27.05.exe
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\27.05\bin\Debug\net8.0\27.05.deps.json
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\27.05\bin\Debug\net8.0\27.05.runtimeconfig.json
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\27.05\bin\Debug\net8.0\27.05.dll
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\27.05\bin\Debug\net8.0\27.05.pdb
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\27.05\obj\Debug\net8.0\27.05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\27.05\obj\Debug\net8.0\27.05.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\27.05\obj\Debug\net8.0\27.05.AssemblyInfo.cs
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\27.05\obj\Debug\net8.0\27.05.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\27.05\obj\Debug\net8.0\27.05.dll
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\27.05\obj\Debug\net8.0\refint\27.05.dll
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\27.05\obj\Debug\net8.0\27.05.pdb
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\27.05\obj\Debug\net8.0\27.05.genruntimeconfig.cache
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\27.05\obj\Debug\net8.0\ref\27.05.dll
