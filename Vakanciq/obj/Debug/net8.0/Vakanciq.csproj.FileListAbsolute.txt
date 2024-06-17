@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\Vakanciq\bin\Debug\net8.0\Vakanciq.exe
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\Vakanciq\bin\Debug\net8.0\Vakanciq.deps.json
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\Vakanciq\bin\Debug\net8.0\Vakanciq.runtimeconfig.json
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\Vakanciq\bin\Debug\net8.0\Vakanciq.dll
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\Vakanciq\bin\Debug\net8.0\Vakanciq.pdb
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\Vakanciq\obj\Debug\net8.0\Vakanciq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\Vakanciq\obj\Debug\net8.0\Vakanciq.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\Vakanciq\obj\Debug\net8.0\Vakanciq.AssemblyInfo.cs
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\Vakanciq\obj\Debug\net8.0\Vakanciq.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\Vakanciq\obj\Debug\net8.0\Vakanciq.dll
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\Vakanciq\obj\Debug\net8.0\refint\Vakanciq.dll
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\Vakanciq\obj\Debug\net8.0\Vakanciq.pdb
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\Vakanciq\obj\Debug\net8.0\Vakanciq.genruntimeconfig.cache
+C:\Users\STUDENTS-1409-3\Desktop\Gabriel 9a\Vakanciq\obj\Debug\net8.0\ref\Vakanciq.dll
